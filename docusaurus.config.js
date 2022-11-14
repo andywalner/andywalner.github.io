@@ -9,7 +9,7 @@ const config = {
   title: 'Onehouse docs',
   tagline: 'Dinosaurs are cool',
   url: 'https://andywalner.github.io',
-  baseUrl: '/my-website/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
